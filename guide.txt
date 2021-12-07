@@ -1,0 +1,8 @@
+When we login and get inside dashboard.
+-> my service id that i got when i click "add new service btn" :service_q6pk2dt
+-> select integration menu of sidedrawer  to see userid and access token
+
+inside project directory
+npm install emailjs-com
+
+copy code from emailjs documentation:"integration with react"
